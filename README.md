@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ágille
+# 👋 Olá, eu sou o Rafael
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na [Fatec Araras](http://www.fatecararas.com.br/).  
 ☁️ Apaixonado por **Tecnologia.**  
@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lima-ab402234b/)  
 ✉️ Email: **ltlrafaelg@gmail.com**  
 
 ---
