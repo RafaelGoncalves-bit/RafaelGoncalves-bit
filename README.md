@@ -27,8 +27,8 @@ Profissional focado em transformar desafios de negócios em soluções automatiz
 ## 📊 GitHub Status
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelgoncalves-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Stats" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgoncalves-bit&layout=compact&theme=dark&langs_count=5" alt="Top Langs" height="150em" />
+  <img src="https://github-readme-stats-two.vercel.org/api?username=rafaelgoncalves-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Stats" height="150em" />
+  <img src="https://github-readme-stats-two.vercel.org/api/top-langs/?username=rafaelgoncalves-bit&layout=compact&theme=dark&langs_count=5" alt="Top Langs" height="150em" />
 </p>
 
 ---
