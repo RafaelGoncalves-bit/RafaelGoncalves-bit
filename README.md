@@ -1,39 +1,39 @@
-# 👋 Olá, eu sou o Rafael
+# 👋 Olá, eu sou o Rafael Gonçalves de Lima
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na [Fatec Araras](http://www.fatecararas.com.br/).  
-☁️ Apaixonado por **Tecnologia.**  
-📚 Sempre aprendendo, com facilidade em novas ferramentas e metodologias.  
-🌎 Inglês intermediário para estudos, leitura técnica e comunicação.  
+### **Tech Lead | IT Administrator | Full-Stack Developer**
 
----
-
-## 🚀 Tecnologias & Ferramentas
-- **Linguagens**: PHP, JavaScript, SQL  
-- **Frameworks & Libs**: Bootstrap  
-- **Banco de Dados**: MySQL
-- **DevOps & Cloud**: GitHub Actions, Azure (básico)  
-- **Ferramentas**: Git/GitHub, Figma, VS Code, PlantUML, Canva  
+Profissional focado em transformar desafios de negócios em soluções automatizadas, seguras e escaláveis. Atuo de ponta a ponta: do desenvolvimento de software de alta performance à gestão e segurança de infraestruturas críticas de TI.
 
 ---
 
-## 📈 Atualmente
-- 📖 Estudando **DSM na Fatec Araras**  
-- ☁️ Aprofundando meus conhecimentos em **Programação**  
-- 🔧 Desenvolvendo projetos práticos para consolidar aprendizado  
-- 🤝 Aberto a colaborações e projetos open source  
+## 🛠️ Stack Tecnológico
+
+* **Backend & Automação:** Python, Django, PHP, Node.js, n8n, Integrações de APIs.
+* **Frontend & Design:** React.js, JavaScript, Bootstrap, Tailwind.
+* **Infraestrutura & Redes:** Samba AD (Ubuntu), pfSense, Roteamento, VPNs, Windows Server, Scripts de Logon (Batch/Shell).
+* **Banco de Dados:** MySQL, MongoDB.
 
 ---
 
-## 🌟 Curiosidades
-- Tenho facilidade com tecnologia e adoro explorar novidades.  
-- Acredito que a **prática constante** é a melhor forma de evoluir.  
-- Busco sempre unir **simplicidade + eficiência** nos meus projetos.  
+## 🚀 O Que Eu Faço
+
+* **Desenvolvimento Full-Stack:** Criação de ferramentas web e desktop (Django/React/Python) integradas a ecossistemas corporativos.
+* **Automação de Processos (DevOps):** Desenvolvimento de fluxos de dados e monitoramento em tempo real (n8n/APIs/Discord) para eliminação de trabalho manual.
+* **Segurança & Redes:** Arquitetura de domínios corporativos robustos, gestão de firewalls, políticas de segurança web (OAuth/DNS) e automação de endpoints.
+* **Liderança Técnica:** Coordenação de equipes e direcionamento de metas focadas em eficiência operacional.
 
 ---
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lima-ab402234b/)  
-✉️ Email: **ltlrafaelg@gmail.com**  
+## 📊 GitHub Status
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelgoncalves-bir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Stats" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgoncalves-bit&layout=compact&theme=dark&langs_count=5" alt="Top Langs" height="150em" />
+</p>
 
 ---
-⭐ Se gostou do meu perfil, não esqueça de dar um "follow"!  
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lima-ab402234b/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ltlrafaelg@gmail.com)
