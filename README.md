@@ -26,9 +26,9 @@ Profissional focado em transformar desafios de negócios em soluções automatiz
 
 ## 📊 GitHub Status
 
-<!--<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgoncalves-bit&theme=dark" alt="GitHub Streak Stats" height="150em" />
-</p>-->
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgoncalves-bit&theme=dark" alt="GitHub Streak Stats" height="150em" />
+  </p>
 
 ---
 
