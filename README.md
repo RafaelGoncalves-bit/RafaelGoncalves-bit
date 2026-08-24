@@ -24,7 +24,12 @@ Linux · Docker · pfSense · Samba AD · Windows Server
 
 ### GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgoncalves-bit&theme=transparent&hide_border=true" height="150" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgoncalves-bit&bg_color=0d1117&color=8b949e&line=00e5ff&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=16"
+    width="100%"
+  />
+</p>
 
 ---
 
