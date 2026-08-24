@@ -9,7 +9,7 @@ Desenvolvimento de software, automação de processos e infraestrutura de TI.
 ### Tecnologias
 
 **Backend**  
-Python · Django · Node.js · PHP
+Python · Django · Node.js · React
 
 **Frontend**  
 React · TypeScript · JavaScript · Tailwind CSS
@@ -18,7 +18,7 @@ React · TypeScript · JavaScript · Tailwind CSS
 PostgreSQL · MongoDB · DuckDB · n8n · APIs
 
 **Infraestrutura**  
-Linux · Docker · pfSense · Samba AD · Windows Server · VPN
+Linux · Docker · pfSense · Samba AD · Windows Server
 
 ---
 
